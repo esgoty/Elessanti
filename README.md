@@ -18,17 +18,17 @@ Four main directories can be found:
 - **Section 4:** Misc projects
 <br><br>
 
-## Section 1 Quick Takes
+## :milky_way: Cloud deployments and databases
 
 
 <br>
 
-## Section 2 Quick Takes
+## Protein modeling and directed evolution
 
 
 <br>
 
-## Section 3 Quick Takes
+## Non-touchable interfaces: NLP and brain-machine interfaces
 
 ### **Bag of words and why it's still relevant**
 The thing is... machines still think in binary and you need to help them understand your corpus. Additionaly, as matter of fact, processing power can be a concern in some applications. Bigger is not always better nor possible (I'm looking at you GPT-3 :D )
@@ -38,7 +38,7 @@ The thing is... machines still think in binary and you need to help them underst
 
 <br>
 
-## Section 4 Quick Takes
+## Misc projects
 
 <br>
 
