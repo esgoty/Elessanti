@@ -1,20 +1,21 @@
 # Data science applications for life sciences
 
-**Welcome to my repository!**
+
 
 <br>
 
 ## **About**
 
+**Welcome to my repository!**
 
 This repository contains a broad range of Artificial intelligence and Machine learning topics  related to Life science applications. 
 
 Four main directories can be found:
 
-- Section 1: Cloud deployments and databases
-- Section 2: Protein modeling and directed evolution
-- Section 3: Non-touchable interfaces: NLP and brain-machine interfaces
-- Section 4: Misc projects
+- **Section 1:** Cloud deployments and databases
+- **Section 2:** Protein modeling and directed evolution
+- **Section 3:** Non-touchable interfaces: NLP and brain-machine interfaces
+- **Section 4:** Misc projects
 <br><br>
 
 ## Section 1 Quick Takes
@@ -29,7 +30,7 @@ Four main directories can be found:
 
 ## Section 3 Quick Takes
 
-### Bag of words and why it is still relevant ?
+### Bag of words and why it's still relevant
 
 ### ChatBots 
 
