@@ -23,12 +23,12 @@ Four main directories can be found:
 
 <br>
 
-## Protein modeling and directed evolution
+## :seedling: Protein modeling and directed evolution
 
 
 <br>
 
-## Non-touchable interfaces: NLP and brain-machine interfaces
+## :computer: Non-touchable interfaces: NLP and brain-machine interfaces
 
 ### **Bag of words and why it's still relevant**
 The thing is... machines still think in binary and you need to help them understand your corpus. Additionaly, as matter of fact, processing power can be a concern in some applications. Bigger is not always better nor possible (I'm looking at you GPT-3 :D )
@@ -38,7 +38,7 @@ The thing is... machines still think in binary and you need to help them underst
 
 <br>
 
-## Misc projects
+## :shipit: Misc projects
 
 <br>
 
