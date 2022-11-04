@@ -23,7 +23,7 @@ Four main directories can be found:
 
 <br>
 
-## :microscope: Protein modeling and directed evolution
+## :seedling: Protein modeling and directed evolution
 
 
 <br>
