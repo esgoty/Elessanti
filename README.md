@@ -30,8 +30,8 @@ Four main directories can be found:
 
 ## Section 3 Quick Takes
 
-### Bag of words and why it's still relevant
-    The thing is... machines still think in binary and you need to help them understand your corpus. Additionaly, as matter of fact, processing power can be a concern in some applications. Bigger is not always better nor possible (I'm looking at you GPT-3 :D )
+### **Bag of words and why it's still relevant**
+The thing is... machines still think in binary and you need to help them understand your corpus. Additionaly, as matter of fact, processing power can be a concern in some applications. Bigger is not always better nor possible (I'm looking at you GPT-3 :D )
 
 ### ChatBots 
 
