@@ -6,20 +6,31 @@ Elessanti Notebooks<br/>
 Data science applications for life sciences
 </h3> 
 <br>
-
 A curated and cherry picked collection of starter examples on topics related to the Data Science & Life Sciences common grounds.
+<br><br>
 
-
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+<br>
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <br><br>
 
 
-
 ### **Hello there!**  Glad you dropped by!  :bow:
-I'm Santiago, an Argentinian Biomedical Engineer currently working on my master's in Artificial intelligence and a few cool projects that integrate AI&ML, Electronics, and Biotechnology. 
+I'm Santiago, an Argentinian Biomedical Engineer currently working on my master's in Artificial intelligence and a few cool projects that integrate AI&ML, Electronics, and Biotechnology. <br>
+
+          
 
 <h4 align="left">
-<a href="https://www.linkedin.com/in/santiago-paz-650744b5/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="30px"/> </a> 
+<a href="https://www.linkedin.com/in/santiago-paz-650744b5/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="36px"/> </a> 
 </h4> 
 
 <br><br><br><br>
