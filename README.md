@@ -30,7 +30,7 @@ I'm Santiago, an Argentinian Biomedical Engineer currently working on my master'
           
 
 <h4 align="left">
-<a href="https://www.linkedin.com/in/santiago-paz-650744b5/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="36px"/> </a> 
+<a href="https://www.linkedin.com/in/santiago-paz-650744b5/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="34px"/> </a> 
 </h4> 
 
 <br><br><br><br>
@@ -53,15 +53,14 @@ I'm Santiago, an Argentinian Biomedical Engineer currently working on my master'
 
 ## :seedling: Protein modeling and directed evolution
 
-
 <br>
 
 ## :satellite: Non-touchable interfaces 
 
 ### Natural Language Processing 
 
-* **Bag of words and why they're still relevant**<br> 
-  The thing is... machines still think in binary and you need to help them understand your corpus. Additionally, as matter of fact, processing power can be a concern in some applications. Bigger is not always better nor possible (I'm looking at you GPT-3 :D )
+* [Bag of words and why they're still relevant](https://link-url-here.org)<br> 
+  The thing is... machines still think in binary and you need to help them out to understand your corpus. Additionally, as matter of fact, processing power can be a concern in some applications. Bigger is not always better nor possible (I'm looking at you GPT-3 :D )
 <br>
 
 * **Chatbots**<br>
