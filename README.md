@@ -1,30 +1,37 @@
-<h1 align="center">
-Data science applications for life sciences
+<h1 align="right">
+Elessanti Notebooks<br/>
 </h1> 
 
-
-
-
-
-
+<h3 align="right">
+Data science applications for life sciences
+</h3> 
 <br>
 
+A curated and cherry picked collection of starter examples on topics related to the Data Science & Life Sciences common grounds.
 
-
-## **Hello there!**
-
-I'm Santiago, an Argentinian Biomedical Engineer currently working on my master's in Artificial intelligence. 
-
-I'm glad you could drop by!  :bow:
 
 
 <br><br>
 
-## **About This Repository**
-This repository contains a broad range of Artificial intelligence and Machine learning topics related to Life science applications. 
-I've cherrypicked some starter examples on each category that I've found interesting to know a little bit more about the DataScience & Lifesciences *jumelage*.
 
-Hope you find something interesting! 
+
+### **Hello there!**  Glad you dropped by!  :bow:
+I'm Santiago, an Argentinian Biomedical Engineer currently working on my master's in Artificial intelligence and a few cool projects that integrate AI&ML, Electronics, and Biotechnology. 
+
+<h4 align="left">
+<a href="https://www.linkedin.com/in/santiago-paz-650744b5/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="30px"/> </a> 
+</h4> 
+
+<br><br><br><br>
+
+
+## Table of contents
+
+- [Cloud deployments and databases](#milky_way-cloud-deployments-and-databases)
+- [Protein modeling and directed evolution](#seedling-protein-modeling-and-directed-evolution)
+- [Non-touchable interfaces](#satellite-non-touchable-interfaces)
+  - [Natural Language Processing](#natural-language-processing)
+- [Misc projects](#shipit-misc-projects)
 
 <br><br>
 
