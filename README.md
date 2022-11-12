@@ -59,7 +59,7 @@ I'm Santiago, an Argentinian Biomedical Engineer currently working on my master'
 
 ### Natural Language Processing 
 
-* [Bag of words and why they're still relevant](https://link-url-here.org)<br> 
+* [Bag of words and why they're still relevant](https://github.com/esgoty/Elessanti/tree/main/Non-touchable%20interfaces/NLP/bags)<br> 
   The thing is... machines still think in binary and you need to help them out to understand your corpus. Additionally, as matter of fact, processing power can be a concern in some applications. Bigger is not always better nor possible (I'm looking at you GPT-3 :D )
 <br>
 
