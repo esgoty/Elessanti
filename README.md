@@ -63,8 +63,8 @@ I'm Santiago, an Argentinian Biomedical Engineer currently working on my master'
   The thing is... machines still think in binary and you need to help them out to understand your corpus. Additionally, as matter of fact, processing power can be a concern in some applications. Bigger is not always better nor possible (I'm looking at you GPT-3 :D )
 <br>
 
-* **Chatbots**<br>
-  (Not yet ready!)
+* [Training a simple chat bot ](https://github.com/esgoty/Elessanti/tree/main/Non-touchable%20interfaces/NLP/chandler)<br> 
+  Once you got some numeric representation for your corpus, you can do a number of cool things. For example extracting all the lines of your favorite 90's sitcom character and ask him things about the series!. Go and ask chandler a few things, don't be shy!
 <br>
 
 
