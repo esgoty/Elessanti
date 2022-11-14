@@ -67,6 +67,10 @@ I'm Santiago, an Argentinian Biomedical Engineer currently working on my master'
   Once you got some numeric representation for your corpus, you can do a number of cool things. For example extracting all the lines of your favorite 90's sitcom character and ask him things about the series!. Go and ask chandler a few things, don't be shy!
 <br>
 
+* [Obtaining context dependent vector representations ](https://github.com/esgoty/Elessanti/tree/main/Non-touchable%20interfaces/NLP/embeddings)<br> 
+ Wouldn't it be great to let the machine obtain a vector representation of the words for us? Wouldn't be superb to also have a context-dependent representation instead of vectorizing/encoding a bunch of loose words? wait no more and check out the realm of representation learning and embeddings.
+<br>
+
 
 <br>
 
