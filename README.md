@@ -71,6 +71,10 @@ I'm Santiago, an Argentinian Biomedical Engineer currently working on my master'
  Wouldn't it be great to let the machine obtain a vector representation of the words for us? Wouldn't be superb to also have a context-dependent representation instead of vectorizing/encoding a bunch of loose words? wait no more and check out the realm of representation learning and embeddings.
 <br>
 
+* [Predicting the next word with custom embeddings ](https://github.com/esgoty/Elessanti/tree/main/Non-touchable%20interfaces/NLP/RNNs)<br> 
+Wouldn't be great if while you write your next great AI paper, you could additionally write it coining the content in the same way Carl Sagan would do it. Wait no more, using the great advances of Recurrent neural networks, we can train a bot to tell us what to type in... Carl sagan style! 
+<br>
+
 
 <br>
 
