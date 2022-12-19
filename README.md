@@ -75,6 +75,11 @@ I'm Santiago, an Argentinian Biomedical Engineer currently working on my master'
 Wouldn't be great if while you write your next great AI paper, you could additionally write it coining the content in the same way Carl Sagan would do it. Wait no more, using the great advances of Recurrent neural networks, we can train a bot to tell us what to type in... Carl sagan style! 
 <br>
 
+* [Learn about your user base using LSTMs ](https://github.com/esgoty/Elessanti/tree/main/Non-touchable%20interfaces/NLP/LSTMs)<br> 
+Every e-commerce platform nowadays is heavily customer-centric. This means that any other platform will study its customers in one way or another to get to know them and to provide a better product. One such techniques, is knowing about the sentiment of customers reviewing different key products. This seemly easy task, is nearly impossible to carry out for traditional RRNs, but fear no more!
+With the advert of LSTM networks, the context nuances of a typical review are highly approachable!  
+<br>
+
 
 <br>
 
