@@ -82,7 +82,7 @@ With the advert of LSTM networks, the context nuances of a typical review are hi
 
 
 * [Seq2seq models a revolutionary idea for creating a latent space](https://github.com/esgoty/Elessanti/tree/main/Non-touchable%20interfaces/NLP/encoders-decoders)<br> 
-So how to improve our machine interaction in a way that is context sensitive but at the same time allows us to tinker a bit more in a latent space that is not the input space nor the output space? We got you covered fam, welcome to the worl of seq2seq models. that allow us to encode the input in a context sensitive way, process that information, and aterwards de-enconde it to get an answer.
+So how to improve our machine interaction in a way that is context-sensitive but at the same time allows us to tinker a bit more in a latent space that is not the input space nor the output space? We got you covered fam, welcome to the world of seq2seq models. that allows us to encode the input in a context-sensitive way, a process that information, and afterward de-encode it to get an answer.
 
 <br>
 
