@@ -91,5 +91,16 @@ So how to improve our machine interaction in a way that is context-sensitive but
 
 ## :shipit: Misc projects
 
+
+[Diataxis](https://diataxis.fr/ )<br> 
+No matter how much effort and love you invested in a product you carefully created. If no one knows how to use it, nobody will. 
+Conveying users on how your product is used is capital for your product's success and most of the time a regulatory requirement.  Check out the Diataxis framework for designing  documentation that your users will actually use! 
+
+<br>
+
+
+
+
+
 <br>
 
