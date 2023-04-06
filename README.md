@@ -1,5 +1,5 @@
 <h1 align="right">
-Elessanti Notebooks<br/>
+SPAZ Notebooks<br/>
 </h1> 
 
 <h3 align="right">
